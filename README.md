@@ -23,7 +23,7 @@ When the Promise resolve it comes in  " .then()  " where I Perform some Operatio
 Like:  Check Length of Json Data, Find either the ( _id == 1 ) is present or not, Display the Json Data of _id == 1 ;
 
 # Here the ScreenShot When the path is Wrong and the Promises Reject And throw Error.
-<img src="./ss/error.JPG"></img>
+<img src="./screenshot/error.JPG"></img>
 
 
 
